@@ -1,4 +1,4 @@
 # Spectral-Kmeans
-Implementation of an unsupervised machine learning algorithm, called Normalized Spectral Clustering, in C and Python.
+Implementation in C and Python of an unsupervised machine learning algorithm, called Normalized Spectral Clustering.
 <br>
-Written as a final project for "software project" course at Tel Aviv University.
+Developed as a final project in "software project" course at Tel Aviv University.
